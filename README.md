@@ -21,13 +21,13 @@ The project follows a structured approach, encompassing several key phases:
 5. **Documentation**: 
    - Comprehensive documentation is provided to support business stakeholders and analytics teams, detailing the data model and transformation logic.
 
-![Procedures of the Project](https://github.com/user-attachments/assets/810b41d2-5883-4222-b6b4-2547e7dcd8ed)
+![Procedures of the Project](https://github.com/user-attachments/assets/9cb42eeb-c40f-468a-b0b3-94b03917ca96)
 
 ## 🔗 Data Integration
 
 Data integration ensures that disparate data sources are harmonized and accessible for business intelligence and analytics.
 
-![Data Integration](https://github.com/user-attachments/assets/b8314a54-b505-481e-9aa5-bc723451468f)
+![Data Integration](https://github.com/user-attachments/assets/693ebf55-b401-4d69-aae1-9d56c385ae10)
 
 ## 🧑‍💻 Data Modeling
 
@@ -40,8 +40,8 @@ Data modeling is a crucial component of this project, optimizing the structure f
 - **Star Schema**: The data model is designed using a **Star Schema**, which is widely used for analytical queries. This schema provides a clear and efficient structure for querying large datasets.
 
 By carefully structuring the data, this phase ensures that the data warehouse is optimized for reporting and analytical queries.
+![Data Modelling](https://github.com/user-attachments/assets/c8293c0e-0f49-413b-9c2c-e2f951808403)
 
-![Data Modelling](https://github.com/user-attachments/assets/26667a23-34c2-4d7d-bb93-43e4300cff01)
 
 ## 🏆 Analytics and Reporting
 
